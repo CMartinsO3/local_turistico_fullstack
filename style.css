@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+img{
+    width: 100%;
+    border-radius: 28px;
+    margin-bottom: 24px;
+}
+
 body{
     
 }
@@ -10,6 +16,7 @@ body{
 main{
     margin: 88px 80px 65px 80px;
     justify-content: center;
+    font-family: "Open Sans", serif;
 }
 
 header{
@@ -17,11 +24,18 @@ header{
 }
 
 .headline{
-
+    color: #e1624f;
+    font-weight: bold;
+    font-size: 16px;
+    text-transform: uppercase;
+    margin-bottom: 2px;
 }
 
 #presentation{
     margin-bottom: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
 }
 
 #descripition{
@@ -46,18 +60,47 @@ ol{
 }
 
 .text{
-
+    font-size: 16px;
+    color: #333
 }
 
-li{
+.list{
     margin-bottom: 40px;
+    font-size: 28px;
+    font-weight: bold;
 }
 
 .content-card{
-
+    font-weight: regular;
 }
 
 #conclusion{
-
+    color: #333
 }
 
+footer{
+    margin-top: 65px;
+    margin-bottom: 48px;
+    text-align: center;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+
+h3{
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
+
+h1, h2, h3{
+    color: #1B1B1B
+}

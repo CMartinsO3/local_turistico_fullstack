@@ -17,3 +17,10 @@ Organização de alguns margins e peddings.
 Criação da <div> para as linhas.
 Estilização das linhas. 
 Correção das tags das listas.
+
+Commit 6:
+Adição da fonte 'Open Sans'
+Estilizando a página.
+Adição do <Footer>.
+Adição da lista <ul> em cada <ol>.
+Identificar o porque das listas estão com a font e bold.
