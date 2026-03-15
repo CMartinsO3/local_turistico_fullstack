@@ -11,3 +11,9 @@ Criei os locais de estilização.
 Criação da <div> 'content-card'.
 Remoação da <div> 'container' para 'card-travel'.
 Adicionei um texto que tinha esquecido.
+
+Commit 5:
+Organização de alguns margins e peddings.
+Criação da <div> para as linhas.
+Estilização das linhas. 
+Correção das tags das listas.
