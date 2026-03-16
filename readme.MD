@@ -24,3 +24,7 @@ Estilizando a página.
 Adição do <Footer>.
 Adição da lista <ul> em cada <ol>.
 Identificar o porque das listas estão com a font e bold.
+
+Commit 7:
+Resolvendo o problema da lista do Commit 6.
+Não conseguir fazer ficar 100% igual ao do Figma.

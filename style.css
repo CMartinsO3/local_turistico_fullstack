@@ -61,17 +61,26 @@ ol{
 
 .text{
     font-size: 16px;
-    color: #333
+    color: #333;
+    margin: 0px;
 }
 
 .list{
     margin-bottom: 40px;
     font-size: 28px;
     font-weight: bold;
+    margin-left: 45px;
+}
+
+.card-travel{
+    margin-left: 0px;
 }
 
 .content-card{
-    font-weight: regular;
+    font-size: 16px;
+    font-weight: normal;
+    color: #333;
+    margin-left: 0px;
 }
 
 #conclusion{
@@ -103,4 +112,34 @@ h3{
 
 h1, h2, h3{
     color: #1B1B1B
+}
+
+.historia{
+    color:#0c51a7;
+    font-weight: bold;
+}
+
+.casal{
+    color: #e5245e;
+    font-weight: bold;
+}
+
+.familia{
+    color: #591b98;
+    font-weight: bold;
+}
+
+.orçamento{
+    color: #e95e10;
+    font-weight: bold;
+}
+
+.indicação{
+    list-style-position: inside;
+    margin-right: 100px;
+}
+
+.agradecimento{
+    width: 15%;
+    justify-content: center;
 }
